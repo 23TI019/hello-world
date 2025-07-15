@@ -65,7 +65,7 @@ Gitコマンドとは，Gitを操作するための命令文のことである�
 
 ### 第十一回
 
-Githubとは，Gitのリモートリポジトリのホスティングサービスの一つであり，オープンソースソフトウェアの主要なポータルサイトである．Githubの主要な機能には，Project,　Pull Requests, Actions, Issuesなどがある．
+Githubとは，Gitのリモートリポジトリのホスティングサービスの一つであり，オープンソースソフトウェアの主要なポータルサイトである．Githubの主要な機能には，Project, Pull Requests, Actions, Issuesなどがある．
 
 
 
@@ -77,4 +77,4 @@ Continuous Integration (CI) とは，コード変更を共有リポジトリに�
 
 ### 第十三回
 
-Github　Pages とは，Githubにあるリモートレポジトリの内容をwebpageとして公開することが出来るサービスである．HP更改はCI/CDにより自動化でき，Jekyllを使用することでmarkdownファイルを自動でhtml化することが出来る．
+Github Pages とは，Githubにあるリモートレポジトリの内容をwebpageとして公開することが出来るサービスである．HP更改はCI/CDにより自動化でき，Jekyllを使用することでmarkdownファイルを自動でhtml化することが出来る．
